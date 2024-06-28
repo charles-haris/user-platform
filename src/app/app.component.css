@@ -2,3 +2,7 @@
 .nav-link.active {
   color: #007bff;
 }
+
+.active{
+  color: white;
+}
